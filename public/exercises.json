@@ -1,0 +1,502 @@
+{
+  "exercises": [
+    {
+      "id": "GatoSegmentado",
+      "name": "Gato segmentado cuello-torso-pelvis",
+      "info": "10",
+      "video": "J4qJTi_sN-o"
+    },
+    {
+      "id": "EstirammientoCuadriceps",
+      "name": "Estiramiento de cuadriceps",
+      "info": "30 segundos por pierna",
+      "video": "snmGVWxh4Ow"
+    },
+    {
+      "id": "Escalador",
+      "name": "Escalador a una pierna con la otra rodilla apoyada y con pelota",
+      "info": "10 repeticiones por pierna",
+      "video": "rpJFypCfres"
+    },
+    {
+      "id": "CrunchMcGill",
+      "name": "Crunch McGill",
+      "info": "50 segundos arriba",
+      "video": "gpFxsTVl4lA"
+    },
+    {
+      "id": "PlanchaFrontalRodillas",
+      "name": "Plancha frontal con rodillas apoyadas",
+      "info": "60 segundos con respiración adecuada",
+      "video": "RI2fd508OE8"
+    },
+    {
+      "id": "PuenteGluteosPeso",
+      "name": "Puente de glúteos con peso",
+      "info": "12x3 segundos arriba",
+      "video": "Pg6F4hd_Ch8"
+    },
+    {
+      "id": "ConchaCaderaExtendida",
+      "name": "Concha de cadera extendida",
+      "info": "20 repeticiones por lado",
+      "video": "Y0_9iSjUtEA"
+    },
+    {
+      "id": "FloorPressAlterno",
+      "name": "Floor press alterno",
+      "info": "16 totales alternando",
+      "video": "67_zOEXC9Qw"
+    },
+    {
+      "id": "VueloPosterior",
+      "name": "Vuelo posterior",
+      "info": "20 repeticiones con rodillas flexionadas",
+      "video": "hlq2l2Hu_9w"
+    },
+    {
+      "id": "RemoManoRodilla",
+      "name": "Remo a una mano apoyado en rodilla",
+      "info": "8 repeticiones por lado",
+      "video": "Uu0yGQHO7hM"
+    },
+    {
+      "id": "SentadillaPared",
+      "name": "Sentadilla en la pared",
+      "info": "50 segundos",
+      "video": "yJ9r47eNpi8"
+    },
+    {
+      "id": "RotacionToracicaRoller",
+      "name": "Rotación torácica con roller",
+      "info": "10 repeticiones por lado",
+      "video": "Rk963giQAlA"
+    },
+    {
+      "id": "Neurodinamia",
+      "name": "Neurodinamia nervio ciático",
+      "info": "10 por lado",
+      "video": "yUcCX2bKffk"
+    },
+    {
+      "id": "ExtensionToracicaPica",
+      "name": "Extensión torácica con pica",
+      "info": "3 repeticiones",
+      "video": "rYkowLINfDU"
+    },
+    {
+      "id": "DisociaciónLumbopedica",
+      "name": "Disociación lumbopélvica en cuadrupedia",
+      "info": "10 lentas",
+      "video": "CYkNndJMrQ8"
+    },
+    {
+      "id": "HipopresivosDePie",
+      "name": "Hipopresivos de pie + suelo pélvico",
+      "info": "5 repeticiones, inclinándose hacia delante",
+      "video": "Jsb3OPeUcbc"
+    },
+    {
+      "id": "AlcanceTecho",
+      "name": "Alcance al techo alternativamente subiendo hombro",
+      "info": "12 repeticiones alternando lados",
+      "video": "LmiRi-xDoPk"
+    },
+    {
+      "id": "SupermanBrazoBarzoPiernaPierna",
+      "name": "Superman brazo-brazo-pierna-pierna",
+      "info": "4 secuencias",
+      "video": "SPJFGOymAh4"
+    },
+    {
+      "id": "PresionPared",
+      "name": "Presión en la pared",
+      "info": "5 repeticiones por lado / mantener 5 segundos",
+      "video": "cTbZfcOj0NY"
+    },
+    {
+      "id": "Sentadilla",
+      "name": "Sentadilla",
+      "info": "18 repeticiones",
+      "video": "eDXl2HaByzU"
+    },
+    {
+      "id": "SupermanEstatico",
+      "name": "Superman estático",
+      "info": "6 respiraciones completas por lado",
+      "video": "hgViNNsgyLw"
+    },
+    {
+      "id": "CoactivacionAbdominal",
+      "name": "Coactivación abdominal boca arriba",
+      "info": "3 por 10 segundos",
+      "video": "Qeq2ebtXe3o"
+    },
+    {
+      "id": "PuenteIsquiosurales",
+      "name": "Puente de isquiosurales",
+      "info": "12 repeticiones con 3 segundos arriba",
+      "video": "V7FiokxSoWE"
+    },
+    {
+      "id": "BandPullApart",
+      "name": "Band Pull Apart",
+      "info": "18 repeticiones",
+      "video": "RtooEavggPs"
+    },
+    {
+      "id": "RemoSentado",
+      "name": "Remo sentado en L a una mano",
+      "info": "12 repeticiones por lado",
+      "video": "855BEE-sqNE"
+    },
+    {
+      "id": "Sharman4",
+      "name": "Sharman 4 - Acercar y alejar pierna con el otro pie en el aire",
+      "info": "30 lentas por lado",
+      "video": "l0qJe_KZDYo"
+    },
+    {
+      "id": "PuenteGluteosPeso",
+      "name": "Puente de glúteos con una pierna",
+      "info": "20 segundos por lado",
+      "video": "rmOTNJHPUTo"
+    },
+    {
+      "id": "FlexionesEscapulares",
+      "name": "Flexiones escapulares",
+      "info": "12 repeticiones por 3 segundos arriba",
+      "video": "Q474aJ5tt98"
+    },
+    {
+      "id": "ZancadaIsometrica",
+      "name": "Zancada isométrica",
+      "info": "20 segundos por lado",
+      "video": "_M287JXtbrM"
+    },
+    {
+      "id": "PlanchaLateralRodillas",
+      "name": "Plancha lateral de rodillas",
+      "info": "8 respiraciones completas por lado",
+      "video": "F4GND8BzJhs"
+    },
+    {
+      "id": "GluteMarch",
+      "name": "Glute March con peso",
+      "info": "24 alternos",
+      "video": "qRqYtzwK3iA"
+    },
+    {
+      "id": "ToqueHombros",
+      "name": "Toque de hombros con rodillas elevadas",
+      "info": "20 repeticiones alternando lados",
+      "video": "7Xjb344_H-Y"
+    },
+    {
+      "id": "NoMoney",
+      "name": "No money",
+      "info": "18 repeticiones a ritmo seguido",
+      "video": "6JO6UoOW2Ek"
+    },
+    {
+      "id": "FlexionesEscapularesPlanchaFrontal",
+      "name": "Flexiones escapulares en plancha frontal",
+      "info": "10 repeticiones por 3 segundos arriba",
+      "video": "5J-K7mW2Xww"
+    },
+    {
+      "id": "ConchaCaderaFlexionada",
+      "name": "Concha de cadera flexionada",
+      "info": "20 repeticiones por lado",
+      "video": "xIuQX45qUX0"
+    },
+    {
+      "id": "RemoInclinadoGoma",
+      "name": "Remo inclinado con goma",
+      "info": "12 repeticiones",
+      "video": "v8hRhQHmjls"
+    },
+    {
+      "id": "BichoMuertoGoma",
+      "name": "Bicho muerto sujetando goma desde posterior",
+      "info": "12 repeticiones",
+      "video": "TzH95qLuITo"
+    },
+    {
+      "id": "ZancadaDelante",
+      "name": "Zancada delante sin avanzar",
+      "info": "12 repeticiones alternando lado",
+      "video": "XETWyLCo94s"
+    },
+    {
+      "id": "PosicionCuatro",
+      "name": "Posición de cuatro",
+      "info": "3 minutos",
+      "video": "mCO-IOals4k"
+    },
+    {
+      "id": "EstiramientoDinamicoCuadriceps",
+      "name": "Estiramiento dinámico de cuadriceps",
+      "info": "10 repeticiones alternando por lado",
+      "video": "3RdEXRfJjBU"
+    },
+    {
+      "id": "EscaladorEspera",
+      "name": "Escalador, pero hasta que una pierna no vuelve no se mueve la otra",
+      "info": "10 repeticiones alternando por lado",
+      "video": "b-ph1CG7Wj8"
+    },
+    {
+      "id": "SentadillaGoblet",
+      "name": "Sentadilla con talones elevados",
+      "info": "14 repeticiones",
+      "video": "XswMUhjxQt4"
+    },
+    {
+      "id": "PlanchaLateralCadera",
+      "name": "Plancha lateral con abducción de cadera",
+      "info": "12 repeticiones por lado con 3 segundos arriba",
+      "video": "Y81o1pYXcYc"
+    },
+    {
+      "id": "Flexiones",
+      "name": "Flexiones normales o de rodillas",
+      "info": "10 repeticiones",
+      "video": "-YPBaaDLF7E"
+    },
+    {
+      "id": "PesoMuertoRumano",
+      "name": "Peso muerto rumano con mancuernas",
+      "info": "10 repeticiones",
+      "video": "InwWhR0yw5Q"
+    },
+    {
+      "id": "PlanchaFrontalSilla",
+      "name": "Plancha frontal sobre silla o cajón",
+      "info": "60 segundos con respiración adecuada",
+      "video": "xUnb38Svtw4"
+    },
+    {
+      "id": "HipThrust",
+      "name": "Hip thrust. Se puede hacer también con peso",
+      "info": "8 repeticiones con 3 segundos arriba",
+      "video": "xU45ArZg9FA"
+    },
+    {
+      "id": "OpenBook",
+      "name": "Open book con rodilla apoyada",
+      "info": "5 repeticiones por lado",
+      "video": "czM-OE8uRec"
+    },
+    {
+      "id": "MovilidadRodilla",
+      "name": "Movilidad de rodilla tendido",
+      "info": "5 repeticiones por lado",
+      "video": "wEVO5q-BwaY"
+    },
+    {
+      "id": "EstiramientoPectoral",
+      "name": "Estiramiento de pectoral en 90 grados",
+      "info": "30 segundos por lado",
+      "video": "-yhi8IHgoz0"
+    },
+    {
+      "id": "EstiramientoCuadricepsPsoas",
+      "name": "Estiramiento de cuadriceps y psoas con pie en silla o cajón",
+      "info": "60 segundos por lado",
+      "video": "akAKqqt3oUs"
+    }
+  ],
+  "weeks": [
+    {
+      "id": 1,
+      "days": {
+        "monday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["GatoSegmentado", "EstirammientoCuadriceps", "Escalador"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["CrunchMcGill", "PlanchaFrontalRodillas", "PuenteGluteosPeso"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["ConchaCaderaExtendida", "FloorPressAlterno", "VueloPosterior"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoManoRodilla", "SentadillaPared"]
+            }
+          ]
+        },
+        "tuesday": {
+          "rounds": [
+            {
+              "repeat": 1,
+              "exercises": ["RotacionToracicaRoller", "GatoSegmentado", "Neurodinamia"]
+            },
+            {
+              "repeat": 2,
+              "exercises": ["EstirammientoCuadriceps", "ExtensionToracicaPica", "DisociaciónLumbopedica", "HipopresivosDePie"]
+            },
+            {
+              "repeat": 1,
+              "exercises": ["PosicionCuatro"]
+            }
+          ]
+        },
+        "wednesday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["AlcanceTecho", "EstirammientoCuadriceps", "SupermanBrazoBarzoPiernaPierna"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PresionPared", "Sentadilla", "SupermanEstatico"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["CoactivacionAbdominal", "PuenteIsquiosurales", "BandPullApart"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoSentado", "Sharman4"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PuenteGluteosPeso", "FlexionesEscapulares", "ZancadaIsometrica"]
+            }
+          ]
+        },
+        "thursday": {
+          "rounds": [
+            {
+              "repeat": 1,
+              "exercises": ["GatoSegmentado", "Neurodinamia"]
+            },
+            {
+              "repeat": 2,
+              "exercises": ["EstirammientoCuadriceps", "HipopresivosDePie"]
+            }
+          ]
+        },
+        "friday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["GatoSegmentado", "SentadillaPared", "AlcanceTecho", "EstirammientoCuadriceps"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PlanchaFrontalRodillas", "GluteMarch", "ToqueHombros"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["NoMoney", "FlexionesEscapularesPlanchaFrontal", "ConchaCaderaFlexionada"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoInclinadoGoma", "BichoMuertoGoma", "ZancadaDelante"]
+            }
+          ]
+        }
+      }
+    }
+    {
+      "id": 2,
+      "days": {
+        "monday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["GatoSegmentado", "EstiramientoDinamicoCuadriceps", "EscaladorEspera"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoManoRodilla", "SentadillaGoblet", "PlanchaLateralCadera"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["Flexiones", "CoactivacionAbdominal", "PesoMuertoRumano"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PlanchaFrontalSilla", "HipThrust"]
+            }
+          ]
+        },
+        "tuesday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["OpenBook", "MovilidadRodilla"]
+            },
+            {
+              "repeat": 2,
+              "exercises": ["EstirammientoPectoral", "EstirammientoCuadricepsPsoas"]
+            },
+          ]
+        },
+        "TODO:wednesday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["AlcanceTecho", "EstirammientoCuadriceps", "SupermanBrazoBarzoPiernaPierna"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PresionPared", "Sentadilla", "SupermanEstatico"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["CoactivacionAbdominal", "PuenteIsquiosurales", "BandPullApart"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoSentado", "Sharman4"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PuenteGluteosPeso", "FlexionesEscapulares", "ZancadaIsometrica"]
+            }
+          ]
+        },
+        "TODO:thursday": {
+          "rounds": [
+            {
+              "repeat": 1,
+              "exercises": ["GatoSegmentado", "Neurodinamia"]
+            },
+            {
+              "repeat": 2,
+              "exercises": ["EstirammientoCuadriceps", "HipopresivosDePie"]
+            }
+          ]
+        },
+        "TODO:friday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["GatoSegmentado", "SentadillaPared", "AlcanceTecho", "EstirammientoCuadriceps"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["PlanchaFrontalRodillas", "GluteMarch", "ToqueHombros"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["NoMoney", "FlexionesEscapularesPlanchaFrontal", "ConchaCaderaFlexionada"]
+            },
+            {
+              "repeat": 3,
+              "exercises": ["RemoInclinadoGoma", "BichoMuertoGoma", "ZancadaDelante"]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
