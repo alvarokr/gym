@@ -9,7 +9,7 @@
     {
       "id": "EstirammientoCuadriceps",
       "name": "Estiramiento de cuadriceps",
-      "info": "30 segundos por pierna",
+      "info": "30/60 segundos por pierna",
       "video": "snmGVWxh4Ow"
     },
     {
@@ -103,7 +103,7 @@
       "video": "LmiRi-xDoPk"
     },
     {
-      "id": "SupermanBrazoBarzoPiernaPierna",
+      "id": "SupermanBrazoBrazoPiernaPierna",
       "name": "Superman brazo-brazo-pierna-pierna",
       "info": "4 secuencias",
       "video": "SPJFGOymAh4"
@@ -155,12 +155,6 @@
       "name": "Sharman 4 - Acercar y alejar pierna con el otro pie en el aire",
       "info": "30 lentas por lado",
       "video": "l0qJe_KZDYo"
-    },
-    {
-      "id": "PuenteGluteosPeso",
-      "name": "Puente de glúteos con una pierna",
-      "info": "20 segundos por lado",
-      "video": "rmOTNJHPUTo"
     },
     {
       "id": "FlexionesEscapulares",
@@ -305,7 +299,104 @@
       "name": "Estiramiento de cuadriceps y psoas con pie en silla o cajón",
       "info": "60 segundos por lado",
       "video": "akAKqqt3oUs"
+    },
+    {
+      "id": "NeurodinamiaFemoral",
+      "name": "Neurodinamia nervio femoral",
+      "info": "6 respiraciones por lado",
+      "video": "sWgJG8KqKm4"
+    },
+    {
+      "id": "PuenteGluteosUnaPierna",
+      "name": "Puente de glúteos a una pierna",
+      "info": "6 repeticiones por lado",
+      "video": "rmOTNJHPUTo"
+    },
+    {
+      "id": "FullCan",
+      "name": "Full can con miniband",
+      "info": "8 repeticiones lentas",
+      "video": "jR5c2PRGo6c"
+    },
+    {
+      "id": "AbduccionesCadera",
+      "name": "Abducciones de cadera",
+      "info": "12 repeticiones por lado",
+      "video": "YWwbqEurYsw"
+    },
+    {
+      "id": "PuenteIsquiosurales1Pierna",
+      "name": "Puente de isquiosurales a una pierna",
+      "info": "8 repeticiones por lado con 3 segundos arriba",
+      "video": "8S0mGo0GfLo"
+    },
+    {
+      "id": "ZancadaAvanzando",
+      "name": "Zancada avanzando",
+      "info": "16 totales alternando pierna",
+      "video": "PSu8IYrJNPU"
+    },
+    {
+      "id": "Sharman6",
+      "name": "Sharman 6 - Acercar y alejar piernas",
+      "info": "4 lentas",
+      "video": "FSpR-hfEQdE"
+    },
+    {
+      "id": "EstiramientoSpiderman",
+      "name": "Estiramiento Spiderman",
+      "info": "10 totales alternando piernas",
+      "video": "7PdS8kX2jSE"
+    },
+    {
+      "id": "ToquesHombros",
+      "name": "Toques de hombros",
+      "info": "12 repeticiones alternando hombros",
+      "video": "RaWEauO3XcM"
+    },
+    {
+      "id": "BirdDog",
+      "name": "Bird Dog o Superman estático",
+      "info": "4 respiraciones completas por lado",
+      "video": "hgViNNsgyLw"
+    },
+    {
+      "id": "ComplexPuenteGluteos",
+      "name": "Complex de puente de glúteos",
+      "info": "5 repeticiones con dos piernas apoyadas y otras 5 con cada pierna arriba",
+      "video": "fg8omDrC-jI"
+    },
+    {
+      "id": "SubidaCajon",
+      "name": "Subida a cajón",
+      "info": "15 repeticiones por lado",
+      "video": "keHPSdau68c"
+    },
+    {
+      "id": "FloorPressAgarreNeutro",
+      "name": "Floor press con agarre neutro y mancuernas",
+      "info": "15 repeticiones",
+      "video": "cFliAfwQbcA"
+    },
+    {
+      "id": "SentadillaPausaMinibanda",
+      "name": "Sentadilla con pausa y minibanda",
+      "info": "8 repeticiones con 3 segundos de estiramiento",
+      "video": "mWGmHD6wumk"
+    },
+    {
+      "id": "PlanchaLateral",
+      "name": "Plancha lateral",
+      "info": "30 segundos por lado",
+      "video": "Zg1VwSOBTds"
+    },
+    {
+      "id": "LegCurl",
+      "name": "Leg curl deslizante excéntrico (solo alejar)",
+      "info": "8 repeticiones muy lentas",
+      "video": "zqN9exYE3OM"
     }
+
   ],
   "weeks": [
     {
@@ -351,7 +442,7 @@
           "rounds": [
             {
               "repeat": 2,
-              "exercises": ["AlcanceTecho", "EstirammientoCuadriceps", "SupermanBrazoBarzoPiernaPierna"]
+              "exercises": ["AlcanceTecho", "EstirammientoCuadriceps", "SupermanBrazoBrazoPiernaPierna"]
             },
             {
               "repeat": 3,
@@ -374,7 +465,7 @@
         "thursday": {
           "rounds": [
             {
-              "repeat": 1,
+              "repeat": 2,
               "exercises": ["GatoSegmentado", "Neurodinamia"]
             },
             {
@@ -440,59 +531,55 @@
             },
           ]
         },
-        "TODO:wednesday": {
+        "wednesday": {
           "rounds": [
             {
               "repeat": 2,
-              "exercises": ["AlcanceTecho", "EstirammientoCuadriceps", "SupermanBrazoBarzoPiernaPierna"]
+              "exercises": ["AlcanceTecho", "NeurodinamiaFemoral", "SupermanBrazoBrazoPiernaPierna"]
             },
             {
               "repeat": 3,
-              "exercises": ["PresionPared", "Sentadilla", "SupermanEstatico"]
+              "exercises": ["PlanchaFrontalSilla", "PuenteGluteosUnaPierna", "FullCan"]
             },
             {
               "repeat": 3,
-              "exercises": ["CoactivacionAbdominal", "PuenteIsquiosurales", "BandPullApart"]
+              "exercises": ["AbduccionesCadera", "PuenteIsquiosurales1Pierna", "ZancadaAvanzando"]
             },
             {
               "repeat": 3,
-              "exercises": ["RemoSentado", "Sharman4"]
+              "exercises": ["RemoInclinadoGoma", "Sharman6"]
+            },
+          ]
+        },
+        "thursday": {
+          "rounds": [
+            {
+              "repeat": 2,
+              "exercises": ["ExtensionToracicaPica", "EstiramientoSpiderman"]
             },
             {
-              "repeat": 3,
-              "exercises": ["PuenteGluteosPeso", "FlexionesEscapulares", "ZancadaIsometrica"]
+              "repeat": 2,
+              "exercises": ["EstirammientoPectoral", "EstirammientoCuadriceps"]
             }
           ]
         },
-        "TODO:thursday": {
-          "rounds": [
-            {
-              "repeat": 1,
-              "exercises": ["GatoSegmentado", "Neurodinamia"]
-            },
-            {
-              "repeat": 2,
-              "exercises": ["EstirammientoCuadriceps", "HipopresivosDePie"]
-            }
-          ]
-        },
-        "TODO:friday": {
+        "friday": {
           "rounds": [
             {
               "repeat": 2,
-              "exercises": ["GatoSegmentado", "SentadillaPared", "AlcanceTecho", "EstirammientoCuadriceps"]
+              "exercises": ["GatoSegmentado", "EstirammientoCuadricepsDinamico", "ToqueHombros"]
             },
             {
               "repeat": 3,
-              "exercises": ["PlanchaFrontalRodillas", "GluteMarch", "ToqueHombros"]
+              "exercises": ["BirdDog", "ComplexPuenteGluteos", "SubidaCajon"]
             },
             {
               "repeat": 3,
-              "exercises": ["NoMoney", "FlexionesEscapularesPlanchaFrontal", "ConchaCaderaFlexionada"]
+              "exercises": ["VueloPosterior", "FloorPressAgarreNeutro", "SentadillaPausaMinibanda"]
             },
             {
               "repeat": 3,
-              "exercises": ["RemoInclinadoGoma", "BichoMuertoGoma", "ZancadaDelante"]
+              "exercises": ["PlanchaLateral", "LegCurl"]
             }
           ]
         }
