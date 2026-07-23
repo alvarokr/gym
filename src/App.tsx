@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="flex min-h-screen w-full justify-center bg-neutral-900">
       <div className="min-h-screen w-full max-w-[430px] bg-background text-foreground">
-        <BrowserRouter>
+        <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}>
           <Routes>
             <Route path="/" element={<CalendarPage />} />
             <Route path="/day/:date" element={<DayPage />} />

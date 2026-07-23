@@ -12,7 +12,7 @@ export function useExercisesData(): State {
 
   useEffect(() => {
     let cancelled = false
-    fetch("/exercises.json")
+    fetch(`${import.meta.env.BASE_URL}exercises.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`No se pudo cargar exercises.json (${res.status})`)
         return res.json() as Promise<ExercisesData>
