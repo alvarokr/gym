@@ -7,7 +7,7 @@
       "video": "J4qJTi_sN-o"
     },
     {
-      "id": "EstirammientoCuadriceps",
+      "id": "EstiramientoCuadriceps",
       "name": "Estiramiento de cuadriceps",
       "info": "30/60 segundos por pierna",
       "video": "snmGVWxh4Ow"
@@ -495,7 +495,7 @@
           ]
         }
       }
-    }
+    },
     {
       "id": 2,
       "days": {
@@ -527,8 +527,8 @@
             },
             {
               "repeat": 2,
-              "exercises": ["EstirammientoPectoral", "EstirammientoCuadricepsPsoas"]
-            },
+              "exercises": ["EstiramientoPectoral", "EstiramientoCuadricepsPsoas"]
+            }
           ]
         },
         "wednesday": {
@@ -548,7 +548,7 @@
             {
               "repeat": 3,
               "exercises": ["RemoInclinadoGoma", "Sharman6"]
-            },
+            }
           ]
         },
         "thursday": {
@@ -559,7 +559,7 @@
             },
             {
               "repeat": 2,
-              "exercises": ["EstirammientoPectoral", "EstirammientoCuadriceps"]
+              "exercises": ["EstiramientoPectoral", "EstiramientoCuadriceps"]
             }
           ]
         },
@@ -567,7 +567,7 @@
           "rounds": [
             {
               "repeat": 2,
-              "exercises": ["GatoSegmentado", "EstirammientoCuadricepsDinamico", "ToqueHombros"]
+              "exercises": ["GatoSegmentado", "EstiramientoDinamicoCuadriceps", "ToqueHombros"]
             },
             {
               "repeat": 3,
